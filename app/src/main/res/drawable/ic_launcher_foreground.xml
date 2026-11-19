@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Ejes -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B8E9E4"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:pathData="M27,54H81M54,27V81" />
+    <!-- Onda seno -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4FD8CC"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M27,54C35,34 45,34 54,54S73,74 81,54" />
+    <!-- Punto de la gráfica -->
+    <path
+        android:fillColor="#FFB95C"
+        android:pathData="M54,54m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+</vector>

@@ -1,0 +1,4 @@
+doom1.wad is the shareware version of DOOM (episode 1, "Knee-Deep in the Dead"),
+Copyright (c) id Software. It may be freely distributed UNMODIFIED, with no charge
+(see the license text distributed with the original DOOM shareware release).
+The full game (DOOM.WAD) is a commercial product and is NOT included.
